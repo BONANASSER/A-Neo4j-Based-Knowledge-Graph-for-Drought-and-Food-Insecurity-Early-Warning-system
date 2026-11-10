@@ -246,21 +246,25 @@ All screenshots come from Neo4j Browser.
 
 **Semantic reasoning chain.** Several climate records affect a vegetation record (label shows its NDVI), which indicates a drought event that causes a food-insecurity record.
 
-![Semantic reasoning chain](images/reasoning-chain.png)
+![Semantic reasoning chain](images/reasoning-chain.png)<img width="643" height="498" alt="image" src="https://github.com/user-attachments/assets/0ad44dc7-44bb-47f7-b91e-20dd621f5067" />
+
 
 **Reasoning paths for individual regions** (Shinile and Dire Dawa).
 
-![Reasoning paths by region](images/reasoning-paths-by-region.png)
+![Reasoning paths by region](images/reasoning-paths-by-region.png) <img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/97fb24c0-d357-4eeb-afb7-07ae083a6ade" />
+
 
 **NGO -> SupportProgram -> Region** coverage (CARE and FAO shown).
 
-![NGO programs and regions](images/ngo-programs-regions.png)
+![NGO programs and regions](images/ngo-programs-regions.png) <img width="1044" height="327" alt="image" src="https://github.com/user-attachments/assets/d0437a93-f8a1-4c9a-b8a0-28c34e61898f" />
+
 
 ![NGO support network](images/ngo-support-region-network.png)
 
 **Region -> AgricultureRecord -> Crop** network.
 
-![Region, agriculture and crop network](images/region-agriculture-crop.png)
+![Region, agriculture and crop network](images/region-agriculture-crop.png) <img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/cfaac172-6640-4929-aeff-c4630c2a7dc4" />
+
 
 **A single region and its connections** (West Arsi).
 
